@@ -17,4 +17,4 @@
 
 ### Instructions
 
-- This program should run on Quartus II 13.0sp1 (64-bit) Web Edition.
+- This program should run on **Quartus II 13.0sp1 (64-bit) Web Edition**.

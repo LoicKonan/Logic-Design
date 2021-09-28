@@ -1,4 +1,4 @@
-## Project 1 - 
+## Project 1 - Microcomputer
 
 ### Loic Konan
 
@@ -10,7 +10,7 @@ This
 
 |   #   | File                         | Description                                |
 | :---: | ---------------------------- | ------------------------------------------ |
-|   1   | [Project.vhdl](Project.vhdl) | The main VHDL program                      |
+|   1   | [Project.vhdl](Project.vhdl) | The main VHDL program.                     |
 |   2   | [image0.png](image0.png)     | The main cpp before any comments.          |
 |   3   | [image1.png](image1.png)     | The main cpp with comments and description |
 

@@ -4,7 +4,8 @@
 
 #### Description
 
-This 
+> - This Project was about using a VHDL compiler or the Quartus schematics drawing tool to design an application specific
+> - integrated circuit implementing the MCA-4 microcomputer.
 
 ### Files
 

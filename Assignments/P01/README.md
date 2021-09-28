@@ -8,11 +8,11 @@ This
 
 ### Files
 
-|   #   | File                     | Description                                |
-| :---: | ------------------------ | ------------------------------------------ |
-|   1   | [main.vhdl](main.vhdl)   | The main VHDL program                      |
-|   2   | [image0.png](image0.png) | The main cpp before any comments.          |
-|   3   | [image1.png](image1.png) | The main cpp with comments and description |
+|   #   | File                         | Description                                |
+| :---: | ---------------------------- | ------------------------------------------ |
+|   1   | [Project.vhdl](Project.vhdl) | The main VHDL program                      |
+|   2   | [image0.png](image0.png)     | The main cpp before any comments.          |
+|   3   | [image1.png](image1.png)     | The main cpp with comments and description |
 
 ### Instructions
 

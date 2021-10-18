@@ -6,4 +6,4 @@
 
 #### Website: www.linkedin.com/in/loickonan
 
-<img src="pic1.png" width="800" height= "400">
+<img src="pic1.png" width="600" height= "300">

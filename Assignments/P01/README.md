@@ -12,8 +12,8 @@
 |   #   | File                         | Description                                |
 | :---: | ---------------------------- | ------------------------------------------ |
 |   1   | [Project.vhdl](Project.vhdl) | The main VHDL program.                     |
-|   2   | [image0.png](image0.png)     | The main cpp before any comments.          |
-|   3   | [image1.png](image1.png)     | The main cpp with comments and description |
+|   2   | [image0.png](image0.png)     | Schema.          |
+|   3   | [image1.png](image1.png)     | Schema |
 
 ### Instructions
 
